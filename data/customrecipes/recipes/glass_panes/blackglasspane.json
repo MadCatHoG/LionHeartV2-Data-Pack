@@ -1,0 +1,9 @@
+{
+	"type":"crafting_shaped",
+	"pattern":["ttt","tdt","ttt"],
+	"key":{
+		"t":{"tag":"customrecipes:glass_panes"},
+		"d":{"item":"minecraft:black_dye"}
+	},
+	"result":{"item":"minecraft:black_stained_glass_pane","count":8}
+}
